@@ -1,0 +1,5 @@
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\CinemaSilverlight\CinemaSilverlight.Web\bin\CinemaSilverlight.Web.dll
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\CinemaSilverlight\CinemaSilverlight.Web\bin\CinemaSilverlight.Web.pdb
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\CinemaSilverlight\CinemaSilverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\CinemaSilverlight\CinemaSilverlight.Web\obj\Debug\CinemaSilverlight.Web.dll
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\CinemaSilverlight\CinemaSilverlight.Web\obj\Debug\CinemaSilverlight.Web.pdb

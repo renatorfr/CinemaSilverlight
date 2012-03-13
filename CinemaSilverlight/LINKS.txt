@@ -1,0 +1,3 @@
+﻿http://blogs.microsoft.co.il/blogs/tamir/archive/2008/06/19/quick-silverlight-tip-how-to-set-format-and-validate-value-in-textbox.aspx
+http://www.silverlight.net/learn/data-networking/binding/data-binding-to-controls-(silverlight-quickstart)
+http://blogs.msdn.com/b/scmorris/archive/2008/04/14/defining-silverlight-datagrid-columns-at-runtime.aspx
