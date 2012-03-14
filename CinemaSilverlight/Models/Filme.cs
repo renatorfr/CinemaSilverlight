@@ -15,7 +15,7 @@ namespace CinemaSL.Models
 
         public string Nome { get; set; }
         public int Duracao { get; set; }
-        public List<string> Secoes = new List<string>();
+        public List<DateTime> Secoes = new List<DateTime>();
 
         public override string ToString()
         {
@@ -24,7 +24,7 @@ namespace CinemaSL.Models
 
         public void AdicionarSecao(DateTime horario)
         {
-            Secoes.Add(horario.ToString());
+            Secoes.Add(horario);
         }
     }
 }
